@@ -1,0 +1,9 @@
+# Top most EditorConfig file
+root = true
+
+# Unix style newlines with a newline ending
+[*]
+end_on_file = lf
+insert_final_new_line = true
+indent_style = space
+indent_size = 2
